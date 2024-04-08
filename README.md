@@ -1,4 +1,5 @@
-# Single-Recurrent-Perceptron-traning-for-noun-checking
+
+
 # Single Recurrent Perceptron for Noun Chunking
 
 This repository contains the implementation of a single recurrent perceptron for noun chunking, trained and tested on POS-tagged data. The code also includes 5-fold cross-validation, reporting of results, error analysis, and validation of model inequalities.
