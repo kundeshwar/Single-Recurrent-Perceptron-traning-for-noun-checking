@@ -1,0 +1,1 @@
+# Single-Recurrent-Perceptron-traning-for-noun-checking
